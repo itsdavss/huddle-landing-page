@@ -1,0 +1,101 @@
+body {
+    height: 100vh;
+    background: url('/src/images/bg-desktop.svg');
+    background-color: hsl(257, 40%, 49%);
+    background-size: cover;
+    font-family: var(--body-font);
+}
+
+/* ---------------- HEADER ---------------- */
+
+.header {
+    padding-left: 50px;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+}
+
+.header .logo img {
+    width: 230px;
+}
+
+/* ---------------- MAIN ---------------- */
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    height: 70vh;
+    padding: 50px;
+}
+
+.main .illustration img {
+    width: 600px;
+}
+
+.main .info {
+    padding: 30px;
+    max-width: 600px;
+}
+
+.main .info h2 {
+    font-family: var(--heading-font);
+    text-transform: capitalize;
+    font-size: 2.2rem;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.main .info p {
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+.main .info button {
+    padding: 15px 55px;
+    border-radius: 30px;
+    font-size: 15px;
+    box-shadow: 1px 1px 5px #000;
+    color: var(--primary);
+    transition: 0.3s;
+}
+
+.main .info button:hover {
+    background-color: var(--secondary);
+    color: #fff;
+    cursor: pointer;
+}
+
+/* ---------------- FOOTER ---------------- */
+
+.footer {
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 40px;
+}
+
+.footer .socials {
+    display: flex;
+    gap: 20px;
+}
+
+.footer .socials i {
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+
+.footer .socials .fa-facebook-f {
+    padding: 10px 13px;
+}
+
+.footer .socials i:hover {
+    color: var(--secondary);
+    border-color: var(--secondary);
+    cursor: pointer;
+}
+
