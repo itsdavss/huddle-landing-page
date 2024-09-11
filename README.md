@@ -45,5 +45,5 @@ Minha maior dificuldade no desenvolvimento desse desafio foi posicionar o footer
 ## Autor
 
 - GitHub - [itsdavss](https://github.com/itsdavss)
-- Meu portfólio - [Davi Oliveira](https://itsdavss.github.io/portfolio-davi/)
+- Meu portfólio - [Davi Oliveira](https://itsdavss.github.io/portfolio/)
 - Frontend Mentor - [@itsdavss](https://www.frontendmentor.io/profile/itsdavss)
