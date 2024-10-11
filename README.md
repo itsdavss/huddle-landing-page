@@ -2,7 +2,7 @@
 
 Esse foi a resolução do desafio [Huddle landing page with single introductory section challenge no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
-## Table of contents
+## Tabela de conteúdos
 
 - [Visão geral](#visão-geral)
   - [Desafio](#desafio)
