@@ -2,6 +2,8 @@
 
 Esse foi a resolução do desafio [Huddle landing page with single introductory section challenge no Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
+## [Vizualize o projeto clicando aqui](https://itsdavss.github.io/huddle-landing-page/) ##
+
 ## Tabela de conteúdos
 
 - [Visão geral](#visão-geral)
